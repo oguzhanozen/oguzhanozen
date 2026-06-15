@@ -35,9 +35,9 @@
   <a href="https://www.linkedin.com/in/oğuzhan-özen-" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:oguzhanozenim@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=oguzhanozenim@gmail.com&su=GitHub%20Profile%20Contact" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Email" />
-  </a>
+</a>
 </div>
     </td>
     <td width="35%" align="center" valign="middle">
