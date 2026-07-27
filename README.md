@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Hi! I'm Oguzhan</h2>
 
 <div align="center">
